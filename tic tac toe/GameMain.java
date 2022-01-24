@@ -96,7 +96,7 @@ public void complogic(int num){
 /*********************************************************/
 
 GameMain(){
-super("tic tac toe By Shivam");
+super("Tic TAC TOE GAME BY SHIVAM");     \\ RENAME APPLICATION GAME
 
 CheckboxGroup cbg=new CheckboxGroup();
 c1=new Checkbox("vs computer",cbg,false);

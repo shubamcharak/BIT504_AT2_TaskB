@@ -28,7 +28,7 @@ add(b[i]);
 b[i].addActionListener(this);
 }//eof for
 
-reset=new JButton("RESTART");   \\ Rename the Button Name
+reset=new JButton("RESET");
 reset.setBounds(100,350,100,50);
 add(reset);
 reset.addActionListener(this);

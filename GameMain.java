@@ -78,7 +78,7 @@ public class GameMain extends JPanel implements MouseListener{
 				//create a main window to contain the panel
 				
 				
-				JFrame frame = new JFrame("Tic Tac Toe");
+				JFrame frame = new JFrame("Tic Tac Toe By Shivam");
 				frame.setVisible(true);
 				frame.setSize(1000,800);
 				frame.setBackground(Color.blue);

@@ -9,7 +9,7 @@ public class GameMain extends JPanel implements MouseListener{
 	// number of ROWS by COLS cell constants 
 	public static final int ROWS = 3;     
 	public static final int COLS = 3;  
-	public static final String TITLE = "Tic Tac Toe";
+	public static final String TITLE = "Tic Tac Toe Game";
 
 	//constants for dimensions used for drawing
 	//cell width and height
